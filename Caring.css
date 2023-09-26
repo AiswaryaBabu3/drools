@@ -1,0 +1,69 @@
+.Caring{
+    height: 500px;
+    width: 100%;
+    float: left;
+    margin-top: 100PX;
+}
+.ycolor{
+    height: 400px;
+    float: left;
+    width: 400px;
+    position: relative;
+}
+.colordog{
+    width: 450px;
+    height:400px;
+    float: left;
+    position: absolute;
+    margin-left: -250px;
+
+}
+.dogimage{
+    width: 47%;
+    height: 100%;
+    float: left;
+
+}
+.caringdog{
+    width: 35%;
+    height: 400px;
+float: right;
+margin-right: 200px;
+}
+.logo1{
+    margin-top: 100px;
+}
+.carepara{
+    font-weight: 900;
+    margin-bottom: 20px;
+}                                                           
+.p{
+    font-size: small;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}
+.button{
+    border: none;
+    color: rgb(223,216,15);
+    background-color: white;
+    font-size: small;
+    letter-spacing: 1px;
+}
+@media only screen and (max-width:900px){
+    .Caring{
+        height: 700px;
+        }
+    .ycolor{
+        height: 300px;
+        width: 300px;
+        margin: 0;
+    }
+    .caringdog{
+        width: 80%;
+        float: left;
+        position: absolute;
+        margin-top: 350px;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}

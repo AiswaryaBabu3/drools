@@ -1,0 +1,40 @@
+.Section{
+    height: 250px;
+    text-align: center;
+    margin-top: 100px;
+}
+.sec2{
+    width: 75%;
+    height: 100%;
+    margin: 0 12%;
+}
+.p{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    font-family: sans-serif;
+    font-size: small;
+    letter-spacing: 1px;
+}
+.readmore{
+    border: none;
+    background-color: white;
+    font-size: small;
+    color: rgb(223, 223, 55);
+}
+.arrow{
+    color: rgb(223, 223, 55);
+    margin-left: 5px;
+    font-size: 15px;
+}
+
+@media only screen and (max-width:500px){
+    .Section{
+        width: 70%;
+        margin: 0 15%;
+        height: 300px;
+    }
+    .sec2{
+        width: 100%;
+    }
+}

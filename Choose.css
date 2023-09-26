@@ -1,0 +1,127 @@
+.Choose{
+    height: 700px;
+    width: 80%;
+    float: left;
+    margin: 0% 10%;
+}
+@media only screen and (max-width:900px){
+    .Choose{
+    height: 1000px;
+    }
+    .img{
+        width: 80%;
+        float: left;
+        margin-left: 25%;
+    }
+    .img2{
+        width: 80%;
+        margin-left: 25%;
+        float: left;
+    }
+    }
+
+.img{
+    width: 30%;
+    height: 450px;
+    float: left;
+    margin-top: 50px;
+}
+.dog1{
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+.omega{
+    height: 150px;
+    width: 150px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.word1{
+    width: 200px;
+    font-family:  sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 10px;
+    padding: 10px;
+}
+
+.img2{
+width: 30%;
+float: left;
+margin-left: 5%;
+margin-top: 50px;
+
+}
+
+.dog2{
+    height: 200px;
+    width: 200px;
+    margin-left: 50px;
+}
+.standards{
+    height: 150px;
+    width: 150px;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+.word2{
+    width: 200px;
+    margin-left: 50px;
+    font-family:  Poppins,sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: small;
+    text-align: center;
+    padding: 10px;
+}
+.img3{
+width: 30%;
+float: right;
+margin-top: 50px;
+
+}
+.dog3{
+    height: 200px;
+    width: 200px;
+    float: right;
+
+}
+.quality{  
+    height: 150px;
+    width: 150px;
+    margin-top: 50px;
+    float: right;
+    margin-right: 30px;
+}
+.word3{
+    width: 200px;
+    font-family:  Poppins,sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: small;
+    text-align: center;
+    padding: 10px;
+    margin-left: 50px;
+    float: right;
+}
+.heading{
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+.b1{
+        border: none;
+        color: rgb(223,216,15);
+        background-color: white;
+        font-size: small;
+        letter-spacing: 1px;
+        margin-left: 15%;
+        margin-top: 50px;
+}
+
+
+
+
+
+
